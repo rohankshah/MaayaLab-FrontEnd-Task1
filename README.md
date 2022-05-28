@@ -12,3 +12,6 @@ Display the events on the screens as they occur (20 points) ✅
 
 
 Try it out here yourself: https://aesthetic-lamington-ac38ac.netlify.app/
+
+https://user-images.githubusercontent.com/22636983/170815180-e56969ff-3554-431a-9456-71eef847ef8d.mov
+
